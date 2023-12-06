@@ -1,4 +1,0 @@
-<Limit GET POST>
-Require not ip 127.0.0.1
-
-</Limit>

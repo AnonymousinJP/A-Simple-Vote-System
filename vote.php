@@ -1,8 +1,8 @@
 <?php session_start();
 $access="./.htaccess";/*アップロード用htaccessファイル*/
 //$access="./htaccess";
-//$мойИп=/*"192.168.0.1"*/"127.0.0.1"/*"121.86.16.151"*/;
-$myip="121.86.16.151";
+//$Ип=/*""*/;
+$myip="121.XX.XX.XXX";
 $files=array(".htaccess","vote.txt");
 $f_name="./vote.txt";
 foreach($files as $value) {
